@@ -1,2 +1,13 @@
-# Chat-app
-Just a very simple chat app with a bad color combo
+# Simple Chat app built using ChatGPT
+
+# Emoji list:
+surprise: "😮"
+hey: "👋"
+lol: "😂"
+love: "❤️"
+react: "⚛️"
+clap: "👏"
+congrats: "🎉"
+
+
+```
